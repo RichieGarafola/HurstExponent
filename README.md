@@ -91,3 +91,6 @@ Just as the Great Financial Crisis hit, the S&P 500 was mean reverting. In fact,
 We reviewed how to use the Hurst exponent to pick the right strategy for the market. 
 
 Now you can get stock price data, calculate the Hurst exponent, and determine the type of market to help select the right trading strategy.
+
+---
+
